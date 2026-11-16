@@ -1,7 +1,8 @@
 # Telco-Customer-Churn-Prediction
 Predicting customer churn using Machine Learning (Random Forest) with Exploratory Data Analysis, feature selection, model evaluation, and an interactive Streamlit web application.
 
-Telco Customer Churn Prediction
+Telco Customer Churn Prediction:
+ i download data from kaggle:https://www.kaggle.com/datasets/blastchar/telco-customer-churn
 
 🚀 Live Demo
 
